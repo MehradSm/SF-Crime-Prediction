@@ -1,8 +1,8 @@
-## San Francisco Crime Prediction
+# San Francisco Crime Prediction
 In this project we want to predict crime categories in San Francisco based on the dataset provided on [Kaggle](https://www.kaggle.com/c/sf-crime). This dataset includes incidents over 12 years from 1/1/2003 to 5/13/2015, and derived from SF Police Department Crime Incident Reporting system. Here, we used Linear Regression and Logistic Regression to analyze the data in MATLAB. 
 
 
-### Data
+## Data
 The original deta is available on Kaggle [San Francisco Crime Classification](https://www.kaggle.com/c/sf-crime). 
 This data containes crime incidents information, and it has been pre-processed into a MATLAB file. In this dataset, each incident includes the following features:
 
@@ -15,10 +15,10 @@ This data containes crime incidents information, and it has been pre-processed i
 
 In this project, we used Dates, DayOfWeek and PdDistrict to build a classifier. We treat all of thes these selected features as categorical variables, then use on-hot encoding technique to processed them. 
 
-### Code 
+## Code 
 Our codes are available in three different files as follow:
 
 * The [Visualization](https://github.com/MehradSm/SF-Crime-Prediction-/tree/main/Visualization) folder contains a MATLAB file to visualize the data. 
 * The [ml_models](https://github.com/MehradSm/Integrating-Stat-ML/tree/main/ml_models) folder includes four machine learning (ml) classifiers developed in Python. 
 
-### Results
+## Results
