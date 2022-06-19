@@ -16,5 +16,9 @@ This data containes crime incidents information, and it has been pre-processed i
 In this project, we used Dates, DayOfWeek and PdDistrict to build a classifier. We treat all of thes these selected features as categorical variables, then use on-hot encoding technique to processed them. 
 
 ### Code 
-Our codes are available 
+Our codes are available in three different files as follow:
 
+* The [Visualization](https://github.com/MehradSm/SF-Crime-Prediction-/tree/main/Visualization) folder contains a MATLAB file to visualize the data. 
+* The [ml_models](https://github.com/MehradSm/Integrating-Stat-ML/tree/main/ml_models) folder includes four machine learning (ml) classifiers developed in Python. 
+
+### Results
