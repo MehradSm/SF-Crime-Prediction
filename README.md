@@ -19,6 +19,7 @@ In this project, we used Dates, DayOfWeek and PdDistrict to build a classifier. 
 Our codes are available in three different files as follow:
 
 * The [Visualization](https://github.com/MehradSm/SF-Crime-Prediction-/tree/main/Visualization) folder contains a MATLAB file to visualize the data. 
-* The [ml_models](https://github.com/MehradSm/Integrating-Stat-ML/tree/main/ml_models) folder includes four machine learning (ml) classifiers developed in Python. 
+* The [Logistic-Regression](https://github.com/MehradSm/SF-Crime-Prediction/tree/main/Logistic-Regression) folder includes a MATLAB file to predict crime using logistic regression. 
+* The [Linear-Regression](https://github.com/MehradSm/SF-Crime-Prediction/tree/main/Linear-Regression) folder contains the required functions to apply linear regression method. 
 
 ## Results
