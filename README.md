@@ -4,7 +4,7 @@ In this project we want to predict crime categories in San Francisco based on th
 
 ### Data
 The original deta is available on Kaggle [San Francisco Crime Classification](https://www.kaggle.com/c/sf-crime). 
-This data containes crime incidents information, and it has been pre-processed into a MATLAB file named as data_SFcrime.mat. In this dataset, each incident includes the following features:
+This data containes crime incidents information, and it has been pre-processed into a MATLAB file. In this dataset, each incident includes the following features:
 
 - __Dates__ The times at which the crime occured
 - __Category__ The type of crime (class label)
