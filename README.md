@@ -13,7 +13,7 @@ This data containes crime incidents information, and it has been pre-processed i
 - __Address__ Street address of crime
 - __X__ and __Y__ GPS coordinates (__X__ as Longitude, and __Y__ as Latitude) of the crime location
 
-In this project, we used Dates, DayOfWeek and PdDistrict to build a classifier. We treat all of thes these selected features as categorical variables, then use on-hot encoding technique to processed them. 
+In this project, we used Dates, DayOfWeek and PdDistrict to build a classifier. We treat all of thes these selected features as categorical variables, then used on-hot encoding technique to process them. 
 
 ## Code 
 Our codes are available in three different files as follow:
