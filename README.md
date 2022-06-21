@@ -24,7 +24,7 @@ Our codes are available in three different files as follow:
 
 ## Results
 
-Results are divided to three different sections and they are available in [Results] forlder:
+Results are divided to three different sections and they are available in [Results](https://github.com/MehradSm/SF-Crime-Prediction/tree/main/Results) folder:
 
 * Data visulaization which illustrates the 
 * Logistic regression results 
