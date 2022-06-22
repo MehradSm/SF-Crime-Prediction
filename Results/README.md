@@ -30,6 +30,11 @@ Here we demostrate the locations of Larceny/Theft crime on the google map.
 #### Most Likely Type of Crimes
 Here we provide the two tables which shows most likely hour of occurance of each type of crime, and most likely type of crime within each pdDistrict respectively 
      
+   <div style="text-align:center"><img src="hourCrime.png" alt="drawing" width="400"/> 
+     
+Most likely type of crime within each pdDistrict 
+     
+   <div style="text-align:center"><img src="districtCrime.png" alt="drawing" width="400"/> 
 
 ## 2. Logistic Regression Performance
      
