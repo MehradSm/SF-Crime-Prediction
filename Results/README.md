@@ -24,5 +24,5 @@ Here we demostrate the locations of Larceny/Theft crime on the google map.
   
   Finally, we see crime frequancy in different pdDistricts which indicates Southern area has the most number of crime scenes. 
   
-   <div style="text-align:center"><img src="hist_pddistrict.png" alt="drawing" width="400"/> 
+   <div style="text-align:center"><img src="hist_pdDistrict.png" alt="drawing" width="400"/> 
 
