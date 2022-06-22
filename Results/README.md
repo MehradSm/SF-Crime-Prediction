@@ -15,11 +15,14 @@ Here we demostrate the locations of Larceny/Theft crime on the google map.
   
 
 #### Normalized Histogram of Features
- We plot normalized histogram of crime for versus Date, DayofWeek, and pdDistrict. 
-  
- 
-  
-<div style="text-align:center"><img src="hist_category.png" alt="drawing" width="800"/>
+ We plot normalized histogram of crime for versus Date, DayofWeek, and pdDistrict. The first one shows crime frequancy for days of week, and we see most of the crimes occured on **Friday**. 
+<div style="text-align:center"><img src="hist_day.png" alt="drawing" width="400"/>
 
-Based on this figure, we can see **Larceny/Theft** is the most common crime category. 
+  Next one illustrates frequency of crime over 24 hours, and time 18:00 is the peak hour of crimes. 
+ <div style="text-align:center"><img src="hist_hour.png" alt="drawing" width="400"/> 
   
+  
+  Finally, we see crime frequancy in different pdDistricts which indicates Southern area has the most number of crime scenes. 
+  
+   <div style="text-align:center"><img src="hist_pddistrict.png" alt="drawing" width="400"/> 
+
