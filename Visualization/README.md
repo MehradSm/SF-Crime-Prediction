@@ -35,8 +35,3 @@ Here we provide the two tables which shows most likely hour of occurance of each
 Most likely type of crime within each pdDistrict 
      
    <div style="text-align:center"><img src="districtCrime.png" alt="drawing" width="400"/> 
-
-## 2. Logistic Regression Performance
-     
-     
-## 3. Linear Regression Performance
