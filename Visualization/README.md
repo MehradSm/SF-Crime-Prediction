@@ -1,4 +1,4 @@
-## 1. Data Visualization 
+## Data Visualization 
 
 In this section, we visualize our data to get a better sense of crime categories and their relationship with the slected features: Date, DayofWeek, and pdDistrict. 
 
