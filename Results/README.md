@@ -1,4 +1,4 @@
-# Data Visualization 
+## 1. Data Visualization 
 
 In this section, we visualize our data to get a better sense of crime categories and their relationship with the slected features: Date, DayofWeek, and pdDistrict. 
 
@@ -25,4 +25,13 @@ Here we demostrate the locations of Larceny/Theft crime on the google map.
   Finally, we see crime frequancy in different pdDistricts which indicates Southern area has the most number of crime scenes. 
   
    <div style="text-align:center"><img src="hist_pdDistrict.png" alt="drawing" width="400"/> 
+     
+ 
+#### Most Likely Type of Crimes
+     Here we provide the two tables which shows most likely hour of occurance of each type of crime, and most likely type of crime within each pdDistrict respectively 
+     
 
+## 2. Logistic Regression Performance
+     
+     
+## 3. Linear Regression Performance
